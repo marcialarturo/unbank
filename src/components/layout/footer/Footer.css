@@ -1,0 +1,23 @@
+.links {
+    margin-top: 1.5rem;
+}
+
+.link {
+    margin-top: 1.5rem;
+    margin: 0.7rem;
+    color: white;
+}
+
+.footer-logo {
+    width: 6rem;
+    padding-top: 1rem;
+}
+
+.MuiAppBar-colorPrimary {
+    background-color: #d5bdaf;
+}
+
+.copyright {
+    margin: 0.7rem;
+    padding-bottom: 1rem;
+}

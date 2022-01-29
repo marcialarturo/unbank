@@ -1,0 +1,16 @@
+{
+    "short_name": "Street Vendor Token",
+    "name": " Street Vendor Token",
+    "homepage_url": "https://0000aab.hns.siasky.net/#/)",
+    "description": "This is a DEFI App for Street Vendors to deposit their cypto currency and gain interest on their SVToken. To qualify you have to provide your business name, website (optional) and street vendor number.",
+    "skylink": "AQDFD3HOnY-KW0VCQYr5WeRA_6F_r_098fGgt54dpruc6w",
+    "icons": [{
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
